@@ -1,5 +1,6 @@
 bootstrap course
 ##lecture 2
+this is getting silly!!!!
 
 #more colors - no jumbotron
 
