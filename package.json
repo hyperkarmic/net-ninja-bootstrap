@@ -1,0 +1,23 @@
+{
+  "name": "net-ninja-bootstrap",
+  "version": "1.0.0",
+  "description": "bootstrap course ##lecture 2 this is getting silly!!!! a test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyperkarmic/net-ninja-bootstrap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyperkarmic/net-ninja-bootstrap/issues"
+  },
+  "homepage": "https://github.com/hyperkarmic/net-ninja-bootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
